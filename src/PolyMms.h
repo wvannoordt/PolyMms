@@ -1,6 +1,7 @@
 #ifndef POLY_MMS_H
 #define POLY_MMS_H
 
-#include "Polynomial.h"
+#include "RandomPolynomial.h"
+#include "GState.h"
 
 #endif
